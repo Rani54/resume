@@ -1,4 +1,4 @@
-/*---------------------- CHOW-CUSTOM CSS FILE STARTS -----------------------------------------*/
+/*---------------------- CUSTOM CSS FILE STARTS -----------------------------------------*/
 
 /*---------------------- Large desktops and laptops starts -----------------------------------*/
 .profile-images-columns{
@@ -300,11 +300,7 @@
 .title:hover {
   color: rgba(255,255,255,1);
   background: #ddd;
-  text-shadow: 0 0 10px rgba(24,109,39,1) , 0 0 20px rgba(79,232,71,1) , 0 0 30px rgba(33,247,22,1) , 0 0 40px #a5f968 , 0 0 80px #b4f771 , 0 0 100px #c5f78f ;
-  -webkit-transition: class="support css-value">all 200ms cubic-bezier(0.42, 0, 0.58, 1);
-  -moz-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
-  -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
-  transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+  
 }
 /*---------------------- Large desktops and laptops ends -----------------------------------*/
 

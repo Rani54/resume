@@ -1,40 +1,35 @@
-// CHOW-CUSTOM JS FILE STARTS
+// CUSTOM JS FILE STARTS
 $(document).ready(function(){
 	$("#progress-bar1").animate({
-    	width: "50%"
+    	width: "60%"
 	}, 2500);
 	$("#progress-bar2").animate({
-    	width: "60%"
+    	width: "65%"
 	}, 3000);
 	$("#progress-bar3").animate({
-    	width: "55%"
+    	width: "50%"
 	}, 3500);
 	$("#progress-bar4").animate({
-    	width: "80%"
+    	width: "70%"
 	}, 4000);
 	$("#progress-bar5").animate({
-    	width: "70%"
+    	width: "40%"
 	}, 4500);
 	$("#progress-bar6").animate({
-    	width: "90%"
+    	width: "65%"
 	}, 5000);
 	$("#progress-bar7").animate({
-    	width: "80%"
+    	width: "40%"
 	}, 5500);
 	$("#progress-bar8").animate({
-    	width: "65%"
+    	width: "50%"
 	}, 6000);
 	$("#progress-bar9").animate({
-    	width: "75%"
+    	width: "45%"
 	}, 6500);
 	$("#progress-bar10").animate({
-    	width: "75%"
+    	width: "65%"
 	}, 7000);
-	$("#progress-bar11").animate({
-    	width: "100%"
-	}, 7500);
-	$("#progress-bar12").animate({
-    	width: "95%"
-	}, 8000);
+	
 })
 // CHOW-CUSTOM JS FILE ENDS
